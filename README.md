@@ -10,7 +10,7 @@ items in the menu presented are
 5. latte americano - Rs 100
 it allows the user to, order the item from menu, view their order, pay the bill and exit the program
    
-In this project i have used
+The  project conatains use of
 dictionary, list, functions, loops
 
 *In this project the user can see items in menu with prices attached with it, the user can add items and view the items before billiing
