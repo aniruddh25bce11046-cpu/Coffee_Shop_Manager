@@ -23,9 +23,19 @@ it also contain automatic billing calculation with change return feature and it 
 
 its a program which doesnt require much requirements
 the only requirement is 
+
+
 Make sure Python 3 is installed on your computer.
+
+
 Save the file with python coffee_shop.py
-and Run the file with command:
+
+
+
+Run the file with command:
+
+
+
 python coffee_shop.py
 
 
