@@ -25,14 +25,14 @@ its a program which doesnt require much requirements
 the only requirement is 
 
 
-Make sure Python 3 is installed on your computer.
+1.Make sure Python 3 is installed on your computer.
 
 
-Save the file with python coffee_shop.py
+2.Save the file with python coffee_shop.py
 
 
 
-Run the file with command:
+3.Run the file with command:
 
 
 
