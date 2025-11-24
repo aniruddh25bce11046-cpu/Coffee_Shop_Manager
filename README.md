@@ -1,8 +1,8 @@
 *This project is baed on simple coffee shop management.
 it allows the user to-
-   1.order the item from menu
-   2.view their order
-   3.pay the bill and exit the program
+1.order the item from menu
+2.view their order
+3.pay the bill and exit the program
    
 *In this project i have used
 dictionary
