@@ -1,3 +1,8 @@
+Project-Coffe Shop Management 
+
+
+
+
 *This project is baed on simple coffee shop management.
 
 
@@ -20,7 +25,14 @@ its a program which doesnt require much requirements
 the only requirement is 
 Make sure Python 3 is installed on your computer.
 Save the file with python coffee_shop.py
-and Run the file 
+and Run the file with command:
+python coffee_shop.py
+
+
+
+
+
+
 
 Created by-Aniruddh Kothiyal
 Registraton number- 25BCE11046
