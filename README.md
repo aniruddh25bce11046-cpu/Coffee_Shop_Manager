@@ -2,7 +2,7 @@
 
 
 
-items in the menu
+items in the menu presented are
 1. espresso - Rs 120
 2. black coffee - Rs 80
 3. cappuccino - Rs 100
