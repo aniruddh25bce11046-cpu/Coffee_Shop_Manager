@@ -22,6 +22,6 @@ Make sure Python 3 is installed on your computer.
 Save the file with python coffee_shop.py
 and Run the file 
 
-Created by-Aniruddh Kothiya;
+Created by-Aniruddh Kothiyal
 Registraton number- 25BCE11046
 
