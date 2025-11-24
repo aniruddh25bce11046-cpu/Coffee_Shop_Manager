@@ -1,4 +1,10 @@
 *This project is baed on simple coffee shop management.
+items in the menu
+1. espresso - Rs 120
+2. black coffee - Rs 80
+3. cappuccino - Rs 100
+4. iced latte - Rs 150
+5. latte americano - Rs 100
 it allows the user to, order the item from menu, view their order, pay the bill and exit the program
    
 In this project i have used
