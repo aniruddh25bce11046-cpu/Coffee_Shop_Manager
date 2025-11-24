@@ -11,7 +11,7 @@ items in the menu presented are
 it allows the user to, order the item from menu, view their order, pay the bill and exit the program
    
 The  project conatains use of
-dictionary, list, functions, loops
+dictionary, list, functions and loops
 
 *In this project the user can see items in menu with prices attached with it, the user can add items and view the items before billiing
 it also contain automatic billing calculation with change return feature and it can detect if the bill paied by the user is less than the requried amount.
