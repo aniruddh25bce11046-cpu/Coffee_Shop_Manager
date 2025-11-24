@@ -16,4 +16,4 @@ It also provide an option to view the ordered items before final payment.
 
 The program is targeted to Small coffee shops and cafe to avoid the rush and make the billing process smooth.
 
-This project was created to understand and descriibe the concept og dictionaries, lists, functions and loops.This project helps in understanding how real-life billing systems workk in small shops and cafe
+This project was created to understand and descriibe the concept of dictionaries, lists, functions and loops.This project helps in understanding how real-life billing systems workk in small shops and cafe
