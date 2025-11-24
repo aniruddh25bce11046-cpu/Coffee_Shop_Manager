@@ -1,14 +1,8 @@
 *This project is baed on simple coffee shop management.
-it allows the user to-
-1.order the item from menu
-2.view their order
-3.pay the bill and exit the program
+it allows the user to, order the item from menu, view their order, pay the bill and exit the program
    
-*In this project i have used
-dictionary
-list
-functions
-loops
+In this project i have used
+dictionary, list, functions, loops
 
 *In this project the user can see items in menu with prices attached with it, the user can add items and view the items before billiing
 it also contain automatic billing calculation with change return feature.
