@@ -11,7 +11,7 @@ its a program which doesnt require much requirements
 the only requirement is 
 Make sure Python 3 is installed on your computer.
 Save the file with python coffee_shop.py
-Run the file using this command:
+and Run the file 
 
 Created by-Aniruddh Kothiya;
 Registraton number- 25BCE11046
