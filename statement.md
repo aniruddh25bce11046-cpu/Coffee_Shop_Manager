@@ -1,4 +1,7 @@
 PROJECT STATEMENT
+
+
+
 The purpose of this project is to create a basic and simple coffee shop management system using Python
 
 
